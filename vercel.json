@@ -3,7 +3,7 @@
   "routes": [
     {
       "src": "/geovision/(.*)",
-      "dest": "yugenspace-geovision.vercel.app/$1"
+      "dest": "https://yugenspace-geovision.vercel.app/$1"
     },
     {
       "handle": "filesystem"
